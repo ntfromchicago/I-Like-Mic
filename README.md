@@ -1,2 +1,4 @@
 # I-Like-Mic
-Download the notarized Mac app for I Like Mic … coming soon to an Apple Vision Pro near you!
+Download the notarized Mac app for I Like Mic.
+
+Look at the list of Releases to the right to download a .zip file of the latest version.
